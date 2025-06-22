@@ -69,7 +69,7 @@ The dataset contains six categories of garbage images:
 
 🙋‍♀ About Me
 
-Name: Bhavana Yatham
+
 
 Email: yathambhavana11@gmail.com
 
